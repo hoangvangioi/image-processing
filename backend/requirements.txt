@@ -3,7 +3,7 @@ anyio==3.7.1
 click==8.1.7
 contourpy==1.2.0
 cycler==0.12.1
-fastapi==0.104.1
+fastapi==0.109.1
 fonttools==4.45.1
 h11==0.14.0
 idna==3.5
