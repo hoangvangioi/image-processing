@@ -6,7 +6,7 @@ cycler==0.12.1
 fastapi==0.109.1
 fonttools==4.45.1
 h11==0.14.0
-idna==3.5
+idna==3.7
 kiwisolver==1.4.5
 matplotlib==3.8.2
 numpy==1.26.2
